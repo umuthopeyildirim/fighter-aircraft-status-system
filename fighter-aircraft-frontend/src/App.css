@@ -1,0 +1,6 @@
+.speedometer-arrow-container {
+    position: absolute;
+    top: 20%; /* Center vertically */
+    left: 38%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Center the container */
+  }
